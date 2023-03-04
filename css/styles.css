@@ -28,11 +28,11 @@ body {
     color: #2E2F42;
 }
 
-.header-link:hover {
+.link:hover {
     color: #404bbf;
 }
 
-.header-link:focus {
+.link:focus {
     color: #404bbf;
 }
 
