@@ -62,7 +62,6 @@ body {
 }
 
 .hero-title {
-    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -103,7 +102,6 @@ body {
 }
 
 .feature-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -114,7 +112,6 @@ body {
 .work {}
 
 .work-title {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -135,7 +132,6 @@ body {
 }
 
 .team-title {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -160,7 +156,6 @@ body {
 }
 
 .team-list-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     text-align: center;
@@ -191,7 +186,6 @@ body {
 }
 
 .footer-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -206,7 +200,7 @@ body {
 .scrolls-list-btr {}
 
 .scrolls-btr {
-    font-family: "Roboto";
+    font-family: inherit;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -235,7 +229,6 @@ body {
 }
 
 .scrolls-list-img-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
