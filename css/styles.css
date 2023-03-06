@@ -33,8 +33,10 @@ body {
 }
 
 /*-----------header-----------*/
-.header-logo {
+.header-logo,
+.header-logo-stail {
     font-family: "Raleway", sans-serif;
+    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -44,7 +46,8 @@ body {
 }
 
 .header-logo-stail {
-    color: var(--title-text-color)
+    color: var(--title-text-color);
+
 }
 
 .link:hover {
